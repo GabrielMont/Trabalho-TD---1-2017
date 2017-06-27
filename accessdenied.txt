@@ -1,0 +1,16 @@
+HTTP/1.1 400 Access Denied
+Content-Type: text/html
+Content-Length: 8192
+Connection: keep-alive
+Cache-Control: max-age=600
+
+<html>
+    <head>
+        <title>Unauthorised access</title>
+    </head>
+    
+    <body>
+        <h1> You can't access this page</h1>
+        <p> Proxy made by Gabriel Monteiro Araujo da Silva and Samuel Sousa Almeida</p>
+    </body>
+</html>

@@ -6,6 +6,7 @@ def accessdenied ():
 	# Funcao que carrega o HTML de resposta a pagina nao autorizada
 	arq = open ("accessdenied.txt", 'r')
 	d = arq.read()
+	arq.close()
 	return d
 
 def replycode(reply):
@@ -154,8 +155,8 @@ def createcache (filename, filecontent):
 		arq.write(filecontent)
 		arq.close()
 	except:
-		print "Erro criando arquivo."
-	# pass
+		# print "Erro criando arquivo."
+		pass
 
 def proxy (webserver, port, conn, data, addr, in_wl, url, ip):
 	# Essa funcao pega os dados da requisicao e liga um socket a porta 80
@@ -164,13 +165,13 @@ def proxy (webserver, port, conn, data, addr, in_wl, url, ip):
 		s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 		s.connect((webserver, port))
 		s.send(data)
+
 		while 1:
 			reply = s.recv (buffer)
-			# createcache(url, reply)
-			registerlog(url, reply, ip)
 			if (in_wl == 1):	# white listed
 				if (len(reply) > 0):
 					createcache(url, reply)
+					registerlog(url, reply, ip)	
 					conn.send(reply)
 					pass
 				else:
@@ -193,18 +194,16 @@ def proxy (webserver, port, conn, data, addr, in_wl, url, ip):
 					sys.exit(3)
 					break;
 				else:		# carregar pagina
-					print "len(reply) = " + str(len(reply))
 					if (len(reply) > 0):
 						conn.send(reply)	# responder ao cliente
 						createcache(url, reply)
+						registerlog(url, reply, ip)
 						pass
 					else:
-						conn.send(reply)
 						break
 		s.close()
 		conn.close()
 	except socket.error, (value, message):
-		print "erro proxy"
 		s.close()
 		conn.close()
 		sys.exit(1)
@@ -218,11 +217,12 @@ def treat_data (conn, data, addr, ip):
 		primeira_linha = data.split ('\n')[0]
 		url = primeira_linha.split (' ')[1]
 		http_pos = url.find("://")
+
 		if (http_pos != -1):
 			url = url [(http_pos+3):]	# pega o resto da url			
 
 		port_pos = url.find(":")
-		webserver_pos = url.find("/")
+		webserver_pos = url.find ("/")
 
 		if webserver_pos == -1:
 			webserver_pos = len(url)
@@ -237,6 +237,7 @@ def treat_data (conn, data, addr, ip):
 			port = int ((url[(port_pos+1):])[:webserver_pos-port_pos-1])
 			webserver = url [:port_pos]
 		
+
 		# print ("Solicitado: " + url + "\n\n")	# mensagem para acompanhar o proxy no terminal.
 
 		# tratando o link para testar blacklist
@@ -248,6 +249,7 @@ def treat_data (conn, data, addr, ip):
 		aux = temp.find('/')
 		if (aux!=-1):
 			temp = temp[:(aux)]
+
 		in_wl = 0	# flag de liberacao da pag
 		# teste blacklist 
 		if(temp in bl_sites):
@@ -260,6 +262,7 @@ def treat_data (conn, data, addr, ip):
 		if (in_wl != -1):
 			# Se a pagina esta autorizada nesse ponto,
 			# devemos conferir se ela esta armazenada em cache.
+
 			var = searchcache(url)
 			if var[0] != -1:	# tem na cache
 				conn.send(var)
@@ -267,7 +270,6 @@ def treat_data (conn, data, addr, ip):
 			else:				# nao tem na cache
 				proxy(webserver, port, conn, data, addr, in_wl, url, ip)
 	except Exception, e:
-		print "erro treating data"
 	 	pass
 
 def restrictions():
@@ -298,6 +300,7 @@ def restrictions():
 
 def main():
 	try:
+		listening = 12001	# listening port
 		s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)	# essa linha cria o socket
 		s.bind (('', listening))	# essa liga ele a uma porta
 		print "Socket ouvindo a porta " + str(listening)
@@ -318,10 +321,8 @@ def main():
 			sys.exit(1)
 	s.close()
 
-
 (bl_sites, wl_sites, deny_terms) = restrictions()
 
-listening = 12002	# listening port
 buffer = 16384
 
 main()

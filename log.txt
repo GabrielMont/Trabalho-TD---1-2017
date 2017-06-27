@@ -1,0 +1,131 @@
+2017, June 26. 22:48:28	192.168.15.152	detectportal.firefox.com/success.txt	HTTP/1.1 200 OK
+2017, June 26. 22:48:29	192.168.15.152	clients1.google.com/ocsp	HTTP/1.1 200 OK
+2017, June 26. 22:48:33	192.168.15.152	espn.com.br/	HTTP/1.1 201 Createad
+2017, June 26. 22:48:50	192.168.15.152	espn.uol.com.br/	HTTP/1.1 200 OK
+2017, June 26. 22:48:50	192.168.15.152	assets.adobedtm.com/709a9f01b202a8880b54baa20471b84742f6fb88/satelliteLib-2b5fc7067e859298d71f7413f606735d9867f72e.js	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	espn.uol.com.br/	HTTP/1.1 411 Length Required
+2017, June 26. 22:48:51	192.168.15.152	fonts.googleapis.com/css?family=Lato:300,400,700,400italic,700italic	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	imasdk.googleapis.com/js/sdkloader/ima3.js	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	assets.espn.com.br/assets/pages-home-d150eecd43e19831de2cc93a59f66282.css	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	static.espn.com.br/menu/raw.js	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	assets.espn.com.br/assets/third-party-4bb899417b6bd525f785c72fea817047.js	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	assets.espn.com.br/assets/third-party-4bb899417b6bd525f785c72fea817047.js	HTTP/1.1 204 No content
+2017, June 26. 22:48:51	192.168.15.152	assets.espn.com.br/load_video_player/706395.js?autoplay=false&gallery=true	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	assets.espn.com.br/assets/third-party-4bb899417b6bd525f785c72fea817047.js	HTTP/1.1 303 See Other
+2017, June 26. 22:48:51	192.168.15.152	cdn.espn.com.br/image/wide/130_624694bf-4c73-331e-afd6-1856b525d627.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	cdn.espn.com.br/image/wide/622_28544ad2-55c2-307e-8bab-c287fb4df038.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	cdn.espn.com.br/image/wide/130_5fad13c9-1911-3f9c-8cd9-2d9ad16befb6.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	cdn.espn.com.br/image/wide/130_f68be1b3-3ec6-3dc1-9048-949c4462c0db.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	cdn.espn.com.br/image/wide/622_030d5456-c6ba-3510-b482-54889c69e1e0.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	cdn.espn.com.br/assets/blogs/bloggers/renatorodrigues.png	HTTP/1.1 200 OK
+2017, June 26. 22:48:51	192.168.15.152	cdn.espn.com.br/image/wide/130_28544ad2-55c2-307e-8bab-c287fb4df038.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/assets/blogs/bloggers/paulocobos.png	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/622_030d5456-c6ba-3510-b482-54889c69e1e0.jpg	HTTP/1.1 100 Continue
+2017, June 26. 22:48:52	192.168.15.152	fonts.gstatic.com/s/lato/v13/MDadn8DQ_3oT6kvnUq_2r_esZW2xOQ-xsNqO47m55DA.woff2	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	static.espn.com.br/menu/raw.js	HTTP/1.1 414 Request-URI Too Long
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/assets/blogs/bloggers/varalespn.png	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/assets/blogs/bloggers/maurocezarpereira.png	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/assets/blogs/bloggers/fernandomeligeni.png	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	static.espn.com.br/menu/raw.js	HTTP/1.1 305 Use Proxy
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/325_74752de8-99b0-3efe-8c7b-ed968f5339b8.jpg	HTTP/1.1 101 Switching Protocols
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/325_74752de8-99b0-3efe-8c7b-ed968f5339b8.jpg	HTTP/1.1 203 Non-Authoritative Information
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/325_283688a5-2978-373d-b7d3-a1136a335265.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/325_3bac9324-ec54-3860-b25f-15403069ca61.gif	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/325_dfedea00-0522-3f30-a41c-c3223fa29bed.gif	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/325_c70ef262-c64a-3dee-8523-e6301f5405a6.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/622_cf1631ac-0bf4-38f6-ad68-1cc975d2da95.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/154_d59daf86-5b36-35ba-b3c8-d126a9f4cc11.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/325_329797b0-1390-3919-b1cb-6cd8586b445f.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/154_6293d751-2d28-35da-86dc-fb222cc13ee1.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/154_c42e26ad-1b51-3008-b8a5-a9eec6adfdb8.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:52	192.168.15.152	cdn.espn.com.br/image/wide/154_1311b95a-cac7-3069-9fb2-79908004c019.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/image/wide/325_55550413-32e4-39a8-b8ca-d7230caa7e82.gif	HTTP/1.1 200 OK
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/assets/blogs/bloggers/salviospinola.png	HTTP/1.1 200 OK
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/assets/blogs/bloggers/eltonserra.png	HTTP/1.1 200 OK
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/image/wide/325_175b6ed7-8f62-3739-8f8b-9d8cfd5a40a9.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/image/wide/325_245d1f21-39c7-3fe6-a6c8-3c954696a49c.JPG	HTTP/1.1 200 OK
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/image/wide/325_19285c6c-f13e-3b82-ac15-759689b7208c.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/image/wide/154_93abb79d-d991-33af-8594-b4e02e82eae1.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/image/wide/325_f854cb9a-504d-3100-b30e-0289156d5679.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/image/wide/154_b9e49a4c-cd85-3c83-b4ee-66c41213f35b.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/image/wide/325_435c49df-a704-3d0e-bfac-f330256ea58b.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/image/wide/325_fcfea2e7-96e3-3706-9655-14a96850bc70.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/image/wide/325_fcfea2e7-96e3-3706-9655-14a96850bc70.jpg	HTTP/1.1 202 Accepted
+2017, June 26. 22:48:53	192.168.15.152	cdn.espn.com.br/image/wide/154_cf1631ac-0bf4-38f6-ad68-1cc975d2da95.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:48:54	192.168.15.152	cdn.espn.com.br/image/wide/325_36f79527-a4f6-3d33-82dd-3473057cd77d.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:52	192.168.15.152	cdn.espn.com.br/image/wide/325_090e2332-2f66-3094-9f47-57e6d1da7f51.JPG	HTTP/1.1 200 OK
+2017, June 26. 22:50:52	192.168.15.152	cdn.espn.com.br/image/wide/325_a0cda1e6-0ccc-3d0d-9dc2-91c27c6cc610.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:52	192.168.15.152	cdn.espn.com.br/image/wide/325_9d8b56ac-9bb1-36aa-ae15-8abbb13b6bf7.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:52	192.168.15.152	cdn.espn.com.br/image/wide/325_9d8b56ac-9bb1-36aa-ae15-8abbb13b6bf7.jpg	HTTP/1.1 305 Use Proxy
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_b9b7c5e7-038d-3a87-beda-1cd5b63fd594.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_36193e1f-69d3-33b2-a455-898c006659dd.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_d12b3dec-8549-3c1c-9a92-9e71fe31db64.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_36193e1f-69d3-33b2-a455-898c006659dd.jpg	HTTP/1.1 412 Precondition Failed
+2017, June 26. 22:50:53	192.168.15.152	assets.espn.com.br/assets/sns/facebook-dbade8e15f02e8d5f016ac50111d8d1e.png	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	assets.espn.com.br/assets/glyphs/share-fc85e57f5a9042c45afec44f42d74640.png	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	assets.espn.com.br/assets/sns/twitter-6d66d16b741fd21e3a92e882ecda4174.png	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	assets.espn.com.br/assets/glyphs/card-video-313f5931ce1e92c2301f37549c3efed0.png	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	assets.espn.com.br/assets/sns/google-2711d73a9f6dfd6e48250ff7940d9143.png	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/154_eb716e28-8402-32cc-a77b-a93a53cca16c.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	assets.espn.com.br/assets/glyphs/card-article-e95d18ada0aa112af5046c54e14a5b71.png	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_08b9900a-0685-3d78-97c0-addf05298d14.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_f9a92f55-3d68-3601-9a7f-2c031f1e15c1.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_4cf6c51e-9e30-38e9-bbc2-6527df73a50d.JPEG	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_7d851292-b6a4-3322-9a98-1f3086f4c56e.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_de2cc151-3603-3a18-9e02-adda72143b5e.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_7852b1ec-c9f4-3c64-88a1-803565de8928.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_d848db05-4dc7-3115-bc65-74318fdebb6f.gif	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_7852b1ec-c9f4-3c64-88a1-803565de8928.jpg	HTTP/1.1 412 Precondition Failed
+2017, June 26. 22:50:53	192.168.15.152	assets.espn.com.br/assets/play-white.png	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	assets.espn.com.br/assets/play-white.png	HTTP/1.1 201 Createad
+2017, June 26. 22:50:53	192.168.15.152	assets.espn.com.br/assets/play-white.png	HTTP/1.1 100 Continue
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_f3d77eeb-a13e-30a2-b0eb-10dc49bd8d44.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/154_c38ebdcb-ce07-3dca-93ae-80f0288ddd7a.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_dabcb084-977f-34d5-8f19-719b26f00ca5.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_d59daf86-5b36-35ba-b3c8-d126a9f4cc11.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/622_624694bf-4c73-331e-afd6-1856b525d627.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_6467cc39-c87a-3fbb-82d3-1d6ddf9a1c83.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/325_72c39494-1b8d-3506-87a7-42da5b278d9a.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:53	192.168.15.152	cdn.espn.com.br/image/wide/130_030d5456-c6ba-3510-b482-54889c69e1e0.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:50:54	192.168.15.152	espn.uol.com.br/geoblock?content_id=706395	HTTP/1.1 200 OK
+2017, June 26. 22:50:59	192.168.15.152	cdn.espn.com.br/video/448/00f75f25-861b-3a85-b060-d65f01e253cd_448.mp4	HTTP/1.1 201 Createad
+2017, June 26. 22:51:00	192.168.15.152	cdn.espn.com.br/video/448/00f75f25-861b-3a85-b060-d65f01e253cd_448.mp4	HTTP/1.1 100 Continue
+2017, June 26. 22:51:00	192.168.15.152	cdn.espn.com.br/video/448/00f75f25-861b-3a85-b060-d65f01e253cd_448.mp4	HTTP/1.1 200 OK
+2017, June 26. 22:51:00	192.168.15.152	cdn.espn.com.br/video/448/00f75f25-861b-3a85-b060-d65f01e253cd_448.mp4	HTTP/1.1 502 Bad Gateway
+2017, June 26. 22:51:01	192.168.15.152	cdn.espn.com.br/thumb/622_1924287a-6c1b-3bf9-960d-08d69a9cc1ea.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:51:01	192.168.15.152	cdn.espn.com.br/thumb/622_1924287a-6c1b-3bf9-960d-08d69a9cc1ea.jpg	HTTP/1.1 401 Unauthorized
+2017, June 26. 22:52:51	192.168.15.152	assets.espn.com.br/assets/pages-home-a70a7af2685c72d76f50d3343ca681e7.js	HTTP/1.1 200 OK
+2017, June 26. 22:52:52	192.168.15.152	cdn.espn.com.br/image/wide/622_5fad13c9-1911-3f9c-8cd9-2d9ad16befb6.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:52	192.168.15.152	fonts.gstatic.com/s/lato/v13/MgNNr5y1C_tIEuLEmicLmwLUuEpTyoUstqEm5AMlJo4.woff2	HTTP/1.1 200 OK
+2017, June 26. 22:52:52	192.168.15.152	cdn.espn.com.br/image/wide/622_5fad13c9-1911-3f9c-8cd9-2d9ad16befb6.jpg	HTTP/1.1 205 Reset Content
+2017, June 26. 22:52:52	192.168.15.152	cdn.espn.com.br/image/wide/622_5fad13c9-1911-3f9c-8cd9-2d9ad16befb6.jpg	HTTP/1.1 301 Moved Permanently
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_e1664416-4823-397f-9cc2-4ed5c96c8e89.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_c76ece0e-1d68-37d7-94d2-77670fc60c43.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/assets/blogs/bloggers/nbanaespn.png	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_713c5cca-0e91-3657-b8b1-903bd963000c.gif	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_e7a8e376-b60a-3bff-a177-9a5111ab186c.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_cd0e9809-e143-36e3-9169-4e710629144e.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_e363649c-aba8-3d4d-9c31-4c5fb280a95a.gif	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_e363649c-aba8-3d4d-9c31-4c5fb280a95a.gif	HTTP/1.1 501 Not Implemented
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_66081896-fb94-3ef5-9c22-18459588cb2f.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_816bb6af-92c1-3b87-ac03-2b393222e2b5.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_939f0b92-0d85-3b86-b17e-889a68f92738.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_c7a00a4e-2da4-3ac0-bbd9-91e570e9a844.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_603be68e-14e6-351e-9381-c6046052af31.gif	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/622_eb716e28-8402-32cc-a77b-a93a53cca16c.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_6fc7abb3-988f-3c7a-a028-9f070af6ef27.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_b37fba8e-fec5-3a5c-821f-aea0dd58b7b3.gif	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_5d6f27ce-3386-32e6-a012-c1a18e63d833.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:53	192.168.15.152	cdn.espn.com.br/image/wide/325_400abefc-1b97-3e13-8fd8-e5f7229d8030.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:54	192.168.15.152	cdn.espn.com.br/image/wide/325_b37fba8e-fec5-3a5c-821f-aea0dd58b7b3.gif	HTTP/1.1 201 Createad
+2017, June 26. 22:52:54	192.168.15.152	cdn.espn.com.br/image/wide/325_7bfcfb22-7bc3-3a2b-9091-2931d1d64df0.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:54	192.168.15.152	cdn.espn.com.br/image/wide/325_ed884882-776e-3c91-a954-a62e471f57c6.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:54	192.168.15.152	cdn.espn.com.br/image/wide/154_8c71c98d-b1a9-3087-9981-fb40bed89b9e.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:54	192.168.15.152	cdn.espn.com.br/image/wide/325_404efbc2-b3cf-36fd-acea-addc88d574f3.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:54	192.168.15.152	cdn.espn.com.br/image/wide/325_f0b0356b-eccd-36e1-8040-acfa8449df01.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:54	192.168.15.152	cdn.espn.com.br/image/wide/325_e6bc4d7a-3f07-3d29-87e0-b1c48864eddc.jpg	HTTP/1.1 100 Continue
+2017, June 26. 22:52:54	192.168.15.152	cdn.espn.com.br/image/wide/622_f68be1b3-3ec6-3dc1-9048-949c4462c0db.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:52:55	192.168.15.152	cdn.espn.com.br/image/wide/325_e6bc4d7a-3f07-3d29-87e0-b1c48864eddc.jpg	HTTP/1.1 409 Conflict
+2017, June 26. 22:54:52	192.168.15.152	cdn.espn.com.br/image/wide/325_13e95d98-522f-3446-953d-76f1319674ae.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:54:52	192.168.15.152	cdn.espn.com.br/image/wide/154_1b74657a-e034-37ca-b14a-c8afe61d9a6e.jpg	HTTP/1.1 200 OK
+2017, June 26. 22:54:54	192.168.15.152	cdn.espn.com.br/image/wide/325_aa5f9f3a-323b-37b4-9670-874565c124b3.jpg	HTTP/1.1 200 OK
